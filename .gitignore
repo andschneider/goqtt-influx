@@ -18,3 +18,5 @@ main
 caps/
 goqtt
 dist/
+
+.env
